@@ -23,7 +23,7 @@ Features:
 
 <img src="https://github.com/cvolm/max/blob/master/Images/perfourmer-control.png" width="331">
 
-One thing that always bugs me about the Vermona Perfourmer Mk2 is that you can't control filter cutoff with velocity. This device solves this and adds velocity sensitivity to the filter by using aftertouch messages. I also added some extras to modify the velocity input data:
+One thing that always bugs me about the Vermona Perfourmer Mk2 is that you can't control filter cutoff with velocity. This device solves that and adds velocity control of filter cutoff by using aftertouch messages. I also added some extras to modify the velocity input data:
 * Amount and Drive to control how intense velocity impacts the filter cutoff
 * Low and High to set minimum and maximum values
 * Input and output monitoring
