@@ -12,7 +12,7 @@ This device lets you play around with velocity data and map it to different dest
 Features:
 * Amount and Drive to control intensity
 * Low and High to set minimum and maximum values
-* Delay data by note values from 1/32 to 1/2
+* Delay data by note values from 1/64 to 1/2
 * Invert intensity (highest value becomes lowest value)
 * Note Off to also trigger data output on note off for nice effects
 * Input and output monitoring
