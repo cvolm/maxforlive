@@ -6,7 +6,7 @@ Max For Live devices and other Max stuff
 
 <img src="https://raw.githubusercontent.com/cvolm/max/master/Images/velocity-mapper.png" width="518">
 
-This device lets you play around with velocity data and map it to different destinations. 
+This device lets you play around with velocity data and map it to different destinations. The final output data can be mapped to aftertouch, pitchbend and up to four different CC types at the same time.
 
 Features:
 * Amount and Drive to control intensity
@@ -15,7 +15,6 @@ Features:
 * Invert intensity (highest value becomes lowest value)
 * Note Off to also trigger data output on note off for nice effects
 * Input and output monitoring
-* Output data can be mapped to aftertouch, pitchbend and up to four different CC types at the same time
    
    
 ### Perfourmer Control
