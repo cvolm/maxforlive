@@ -2,6 +2,7 @@
 Max For Live devices and other Max stuff
 <br>
 <br>
+
 ### Velocity Mapper
 
 <img src="https://raw.githubusercontent.com/cvolm/max/master/Images/velocity-mapper.png" width="518">
@@ -17,6 +18,7 @@ Features:
 * Input and output monitoring
 <br>
 <br>
+
 ### Perfourmer Control
 
 <img src="https://github.com/cvolm/max/blob/master/Images/perfourmer-control.png" width="331">
