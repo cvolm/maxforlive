@@ -1,23 +1,23 @@
 # Max for Live
 Max For Live devices and other Max stuff
 
+
 ### Velocity Mapper
 
 <img src="https://raw.githubusercontent.com/cvolm/max/master/Images/velocity-mapper.png" width="518">
 
-This device lets you play around with velocity data and map it to different destinations.
+This device lets you play around with velocity data and map it to different destinations. 
+
+Features:
 * Amount and Drive to control intensity
 * Low and High to set minimum and maximum values
 * Delay data by note values from 1/32 to 1/2
 * Invert intensity (highest value becomes lowest value)
 * Note Off to also trigger data output on note off for nice effects
 * Input and output monitoring
-
-The output data can be mapped to multiple destinations at the same time:
-* Pressure / Aftertouch
-* Pitchbend
-* Up to four different CC types
-
+* Output data can be mapped to aftertouch, pitchbend and up to four different CC types at the same time
+   
+   
 ### Perfourmer Control
 
 <img src="https://github.com/cvolm/max/blob/master/Images/perfourmer-control.png" width="331">
@@ -29,4 +29,4 @@ One thing that always bugs me about the Vermona Perfourmer Mk2 is that you can't
 
 I also added a dial for PWM amount, as that's also missing on the Perfourmer.
 
-You can also use the Velocity Mapper device (or any other velocity mapper that lets you map to aftertouch) to achieve that.
+You can also use the Velocity Mapper device (or any other velocity mapper that lets you map to aftertouch) to control the filter cutoff on the Perfourmer.
