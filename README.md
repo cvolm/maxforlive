@@ -1,7 +1,7 @@
 # Max for Live
 Max For Live devices and other Max stuff
-
-
+<br>
+<br>
 ### Velocity Mapper
 
 <img src="https://raw.githubusercontent.com/cvolm/max/master/Images/velocity-mapper.png" width="518">
@@ -15,8 +15,8 @@ Features:
 * Invert intensity (highest value becomes lowest value)
 * Note Off to also trigger data output on note off for nice effects
 * Input and output monitoring
-   
-   
+<br>
+<br>
 ### Perfourmer Control
 
 <img src="https://github.com/cvolm/max/blob/master/Images/perfourmer-control.png" width="331">
