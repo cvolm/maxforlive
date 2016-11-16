@@ -1,5 +1,5 @@
 # Max for Live
-Max For Live devices and other Max stuff
+Max for Live devices and other Max stuff
 <br>
 <br>
 
