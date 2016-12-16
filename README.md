@@ -4,9 +4,9 @@ Collection of midi effects and utility devices for Max for Live.
 <br>
 
 
-### Nylon Chord Generator
+### Nylon
 
-<img src="https://raw.githubusercontent.com/cvolm/max/master/Images/nylon.jpg" width="518">
+<img src="https://raw.githubusercontent.com/cvolm/max/master/Images/nylon.jpg" width="712">
 
 Nylon is a chord generator that emulates chord strokes of a guitar. Play up to 6 strings per chord, add dynamics by controlling stroke speed, acceleration and velocity, and humanize each stroke by adding some randomness.
 
@@ -21,9 +21,9 @@ Features:
 <br>
 
 
-### Pong Note Repeater
+### Pong
 
-<img src="https://raw.githubusercontent.com/cvolm/max/master/Images/pong.jpg" width="518">
+<img src="https://raw.githubusercontent.com/cvolm/max/master/Images/pong.jpg" width="712">
 
 Pong is a note repeater that creates exponential or logarithmic repeats. Control the speed of repeats, adjust note decay and velocity, and use the ouput to modulate other devices by mapping it to multiple destinations. 
 
@@ -38,9 +38,9 @@ Features:
 <br>
 
 
-### Velocity Mapper
+### Velo
 
-<img src="https://raw.githubusercontent.com/cvolm/max/master/Images/velo.jpg" width="518">
+<img src="https://raw.githubusercontent.com/cvolm/max/master/Images/velo.jpg" width="712">
 
 This device lets you play around with velocity data and map it to different destinations. The final output data can be mapped to aftertouch, pitchbend and up to four different CC types at the same time.
 
