@@ -1,0 +1,6 @@
+#333333     dark grey 1     interaction elements
+#444444     dark grey 2     background, text on light backgrounds
+#484848     dark grey 3     borders of interaction elements
+#d8d8d8     light grey      text on dark background
+#685d74     purple          accent color
+#f4982e     orange          active color

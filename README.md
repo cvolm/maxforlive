@@ -1,11 +1,46 @@
 # Max for Live
-Max for Live devices and other Max stuff
+Collection of midi effects and utility devices for Max for Live.
 <br>
 <br>
+
+
+### Nylon Chord Generator
+
+<img src="https://raw.githubusercontent.com/cvolm/max/master/Images/nylon.jpg" width="518">
+
+Nylon is a chord generator that emulates chord strokes of a guitar. Play up to 6 strings per chord, add dynamics by controlling stroke speed, acceleration and velocity, and humanize each stroke by adding some randomness.
+
+Features:
+* Control the stroke speed
+* Accelerate or decelerate the stroke speed with exponential or logarithmic curve
+* Define the increase or decrease of velocity during a chord
+* Add randomness to humanize the stroke
+* Visual representation of chord settings
+* Define up to four different chord types and arrange them in an 8-step pattern
+<br>
+<br>
+
+
+### Pong Note Repeater
+
+<img src="https://raw.githubusercontent.com/cvolm/max/master/Images/pong.jpg" width="518">
+
+Pong is a note repeater that creates exponential or logarithmic repeats. Control the speed of repeats, adjust note decay and velocity, and use the ouput to modulate other devices by mapping it to multiple destinations. 
+
+Features:
+* Control the initial speed of the repeats and set a minimum or maximum limit
+* Control the exponential or logarithmic curve of the repeats
+* Adjust the decay of each note in relation to the repeat time
+* Visual representation of chord settings
+* Increase or decrease velocity during the repeats within a defined velocity range
+* Map velocity to multiple destination like aftertouch, pitchbend or CC
+<br>
+<br>
+
 
 ### Velocity Mapper
 
-<img src="https://raw.githubusercontent.com/cvolm/max/master/Images/velocity-mapper.png" width="518">
+<img src="https://raw.githubusercontent.com/cvolm/max/master/Images/velo.jpg" width="518">
 
 This device lets you play around with velocity data and map it to different destinations. The final output data can be mapped to aftertouch, pitchbend and up to four different CC types at the same time.
 
@@ -18,16 +53,3 @@ Features:
 * Input and output monitoring
 <br>
 <br>
-
-### Perfourmer Control
-
-<img src="https://github.com/cvolm/max/blob/master/Images/perfourmer-control.png" width="331">
-
-One thing that always bugs me about the Vermona Perfourmer Mk2 is that you can't control filter cutoff with velocity. This device solves that and adds velocity control to the filter by using aftertouch messages. I also added some extras to modify the velocity input data:
-* Amount and Drive to control how intense velocity impacts the filter cutoff
-* Low and High to set minimum and maximum values
-* Input and output monitoring
-
-I also added a dial for PWM amount, as that's also missing on the Perfourmer.
-
-You can also use the Velocity Mapper device (or any other velocity mapper that lets you map to aftertouch) to control the filter cutoff on the Perfourmer.
