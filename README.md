@@ -8,7 +8,7 @@ Collection of midi effects and utility devices for Max for Live.
 
 <img src="https://raw.githubusercontent.com/cvolm/max/master/Images/nylon.jpg" width="712">
 
-Nylon is a chord generator that emulates chord strokes of a guitar. Play up to 6 strings per chord, add dynamics by controlling stroke speed, acceleration and velocity, and humanize each stroke by adding some randomness.
+Nylon is a chord generator that emulates chord strokes of a guitar. Play up to 6 strings per chord, add dynamics by controlling stroke speed, acceleration and velocity, and humanize each stroke by adding randomness.
 
 Features:
 * Control the stroke speed
