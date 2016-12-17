@@ -14,7 +14,7 @@ Features:
 * Control the stroke speed
 * Accelerate or decelerate the stroke speed with exponential or logarithmic curve
 * Define the increase or decrease of velocity during a chord
-* Add randomness to humanize the stroke
+* Add randomness to humanize strokes
 * Visual representation of chord settings
 * Define up to four different chord types and arrange them in an 8-step pattern
 <br>
