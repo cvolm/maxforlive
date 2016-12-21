@@ -28,10 +28,9 @@ Features:
 Pong is a note repeater that creates exponential or logarithmic repeats. Control the speed of repeats, adjust note decay and velocity, and use the ouput to modulate other devices by mapping it to multiple destinations. 
 
 Features:
-* Control the initial speed of the repeats and set a minimum or maximum limit
-* Control the exponential or logarithmic curve of the repeats
+- Control the initial speed of the repeats and set a limit for lowest and highest speed
+- Control the speed increase and decrease of repeats with exponential or logarithmic curve
 * Adjust the decay of each note in relation to the repeat time
-* Visual representation of chord settings
 * Increase or decrease velocity during the repeats within a defined velocity range
 * Map velocity to multiple destination like aftertouch, pitchbend or CC
 <br>
@@ -42,7 +41,7 @@ Features:
 
 <img src="https://raw.githubusercontent.com/cvolm/max/master/Images/velo.png" width="712">
 
-This device lets you play around with velocity data and map it to different destinations. The final output data can be mapped to aftertouch, pitchbend and up to four different CC types at the same time.
+This device lets you play around with velocity data and map it to different destinations. The final output data can be mapped to aftertouch, pitchbend and CC parameters at the same time.
 
 Features:
 * Amount and Drive to control intensity
