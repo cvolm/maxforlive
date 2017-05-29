@@ -18,6 +18,8 @@ Features:
 * Visual representation of chord settings
 * Define up to four different chord types and arrange them in an 8-step pattern
 <br>
+Download at <a href="http://www.maxforlive.com/library/device/3920/nylon-chord-generator">maxforlive.com</a>
+<br>
 <br>
 
 
@@ -36,6 +38,8 @@ Features:
 * Increase or decrease velocity during the repeats within a defined velocity range
 * Map velocity to multiple destination like aftertouch, pitchbend or CC
 <br>
+Download at <a href="http://www.maxforlive.com/library/device/3919/pong-exponential-note-repeater">maxforlive.com</a>
+<br>
 <br>
 
 
@@ -52,5 +56,7 @@ Features:
 * Invert intensity (highest value becomes lowest value)
 * Note Off to also trigger data output on note off for nice effects
 * Input and output monitoring
+<br>
+Download at <a href="http://www.maxforlive.com/library/device/3885/velo-velocity-mapper">maxforlive.com</a>
 <br>
 <br>
