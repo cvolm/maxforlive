@@ -18,7 +18,7 @@ Features:
 * Visual representation of chord settings
 * Define up to four different chord types and arrange them in an 8-step pattern
 <br>
-Download at <a href="http://www.maxforlive.com/library/device/3920/nylon-chord-generator">maxforlive.com</a>
+Download and see reviews maxforlive.com: <a href="http://www.maxforlive.com/library/device/3920/nylon-chord-generator">Nylon Chord Generator</a>
 <br>
 <br>
 
