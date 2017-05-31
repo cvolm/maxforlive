@@ -1,7 +1,7 @@
 # Max for Live
-<br>
-<br>
 Collection of midi effects and utility devices for Max for Live.
+<br>
+<br>
 
 
 ### Nylon
