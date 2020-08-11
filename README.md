@@ -1,5 +1,5 @@
 # Max for Live
-Collection of midi effects and utility devices for Max for Live.
+Collection of free midi effects and utility devices for Max for Live.
 <br>
 <br>
 
