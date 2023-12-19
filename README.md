@@ -43,6 +43,25 @@ More info and download: <a href="http://www.maxforlive.com/library/device/3919/p
 <br>
 
 
+### ASD
+
+<img src="https://raw.githubusercontent.com/cvolm/max/master/Images/asd.png" width="712">
+
+ASD is a three-channel note repeater that can be played live by triggering repeats on each channel with your A, S and D keys. Different trigger modes, note filtering and repeating settings like exponential or logarithmic trails give you a wide range of options to mess up your MIDI data in creative ways.
+
+Features:
+- Three channels of note repeating, each triggered by key press
+- Select different trigger modes and note-off behaviors
+- Define a note range or individual note to be repeated for each channel
+- For each channel set the initial note value and decay of the repeats
+- Define the speed increase and decrease of repeats with an exponential or logarithmic curve between a lowest and highest note value
+- Increase or decrease velocity during the repeats within a defined velocity range
+<br>
+More info and download: <a href="http://www.maxforlive.com/library/device/5128/asd-performance-note-repeater">ASD</a>
+<br>
+<br>
+
+
 ### Velo
 
 <img src="https://raw.githubusercontent.com/cvolm/max/master/Images/velo.png" width="712">
