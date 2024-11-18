@@ -1,5 +1,5 @@
 # Max for Live
-Collection of free midi effects and utility devices for Max for Live.
+Collection of free midi effects and utility devices for Max for Live...
 <br>
 <br>
 
@@ -11,8 +11,8 @@ Collection of free midi effects and utility devices for Max for Live.
 Nylon is a chord generator that emulates chord strokes of a guitar. Play up to 6 strings per chord, add dynamics by controlling stroke speed, acceleration and velocity, and humanize each stroke with some randomness.
 
 Features:
-* Control the stroke speed
-* Accelerate or decelerate the stroke speed with exponential or logarithmic curve
+* Control the stroke speed...
+* Accelerate or decelerate the stroke speed with exponential or logarithmic curve...
 * Define the increase or decrease of velocity during a chord
 * Add randomness to humanize strokes
 * Visual representation of chord settings
