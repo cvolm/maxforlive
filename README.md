@@ -12,10 +12,10 @@ Nylon is a chord generator that emulates chord strokes of a guitar. Play up to 6
 
 Features:
 * Control the stroke speed...
-* Accelerate or decelerate the stroke speed with exponential or logarithmic curve...
+* Accelerate or decelerate the stroke speed with exponential or logarithmic curve
 * Define the increase or decrease of velocity during a chord
 * Add randomness to humanize strokes
-* Visual representation of chord settings
+* Visual representation of chord settings...
 * Define up to four different chord types and arrange them in an 8-step pattern
 <br>
 More info and download: <a href="http://www.maxforlive.com/library/device/3920/nylon-chord-generator">Nylon</a>
